@@ -17,6 +17,11 @@
          alt="Create React App version" />
   </a>
   
+  <a href="https://github.com/iSubhro/WISELY/pulls">
+    <img src="https://badgen.net/github/prs/iSubhro/WISELY" alt="Pull Request Amount">
+  </a>
+  <img src="https://badgen.net/github/last-commit/iSubhro/WISELY" alt="Last commit date" />
+            
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue"
          alt="License">

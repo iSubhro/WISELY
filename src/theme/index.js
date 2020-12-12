@@ -152,7 +152,6 @@ export default {
 			}
 		}
 	},
-	"version": 1,
 	"fonts": {
 		"Lato": {
 			"family": "Lato",
@@ -173,5 +172,6 @@ export default {
 				]
 			}
 		}
-	}
+	},
+	"version": 4
 }
